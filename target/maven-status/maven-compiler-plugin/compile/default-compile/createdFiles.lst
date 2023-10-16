@@ -1,0 +1,6 @@
+beans/MessageBean.class
+app/App.class
+dao/SampleDAO.class
+bo/SampleBO.class
+dao/impl/SampleDAOImpl.class
+bo/impl/SampleBOImpl.class
